@@ -1,5 +1,5 @@
 ## Processamento de Dados
-O código da solução deverá ser desenvolvido utilizando o PySpark, podendo ser utilizadas as APIs: RDD, DataFrames ou Spark SQL.
+O código da solução deverá ser desenvolvido utilizando o PySpark, podendo ser utilizadas as APIs: RDD, DataFrames ou Spark SQL. 
 
 ### Camada Trusted
 A solução deverá ser capaz de processar os dados contidos nos arquivos .CSV da pasta **datalake/raw/covid19**, efetuando uma unificação dos registros em uma única tabela e armazenando o seu resultado no diretório **datalake/trusted**.
